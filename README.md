@@ -23,8 +23,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 **Tuesday, November 17**
 - 11:30 - 11:35 am: [Add: Your name + LinkedIn link, your presentation title]
-- 3:40 - 3:45 pm: [Add: Your name + LinkedIn link, your presentation title]
-
+- 3:40 - 3:45 pm: [Michael Cowden](https://www.linkedin.com/in/michael-j-cowden/), From Metadata to Meaning: AI-Powered Art Discovery at the National Gallery
 **Wednesday, November 18**
 - 11:30 - 11:35 am: [Add: Your name + LinkedIn link, your presentation title]
 - 2:30 - 2:35 pm: [Add: Your name + LinkedIn link, your presentation title]
